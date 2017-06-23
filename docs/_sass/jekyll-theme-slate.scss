@@ -57,10 +57,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'roboto', 'trebuchet', sans-serif;
 }
 
+outer {
+  background-color: 0E4957 !important;
+}
+
 h1 {
   font-size: 36px;
   font-weight: 700;
-  color: #d92c35 !important;
+  color: #d92c35;
 }
 
 h2 {
