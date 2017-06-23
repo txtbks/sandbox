@@ -58,8 +58,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .inner {
-  background-color: 0E4957 !important;
+  background-color: #0E4957 !important;
 }
+
+button {
+  color: #ffffff;
+  background-color: #0E4957;
+  border: 2px solid #0E4957;
+  border-radius: 2px;
+  font-size: 200%;
+  margin: 5px
+}
+  
 
 h1 {
   font-size: 36px;
