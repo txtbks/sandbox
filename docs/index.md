@@ -4,3 +4,6 @@ Behold its glory.
 
 * [MOAR](sandbox/moar)
 * [Markdown](sandbox/markdown)
+
+This is a button:
+<button class="button">Click Me</button>
