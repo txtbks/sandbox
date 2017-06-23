@@ -2,5 +2,5 @@
 
 Behold its glory.
 
-* [MOAR](/sandbox/moar)
-* [Markdown](/sandbox/markdown)
+* [MOAR](sandbox/moar)
+* [Markdown](sandbox/markdown)
