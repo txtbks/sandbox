@@ -6,4 +6,5 @@ Behold its glory.
 * [Markdown](sandbox/markdown)
 
 This is a button:
-<button class="button">Click Me</button>
+
+<button class="button">Big Fat Button</button>
