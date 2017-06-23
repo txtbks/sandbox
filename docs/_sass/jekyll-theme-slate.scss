@@ -55,9 +55,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'roboto', 'trebuchet', sans-serif;
+  color: #0E4957;
+
 }
 
-inner outer {
+inner, outer {
   background-color: #0E4957 !important;
 }
 
@@ -67,14 +69,18 @@ button {
   border: 2px solid #0E4957;
   border-radius: 2px;
   font-size: 200%;
-  margin: 5px
+  margin-left, margin-right: 20px;
 }
+
+button:hover {
+  background-color: #F14B31;
+  border: 2px solid #F14B31;
+  border-radius: 2px;
   
 
 h1 {
   font-size: 36px;
   font-weight: 700;
-  color: #d92c35;
 }
 
 h2 {
