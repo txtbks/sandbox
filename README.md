@@ -1,2 +1,2 @@
-# sandbox
-not ridiculous
+# Open Education Toolkit
+
